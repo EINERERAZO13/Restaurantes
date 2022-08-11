@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Restaurantes</string>
+    <string name="titulo">BEE</string>
+    <string name="titulo1">APP</string>
+    <string name="reservas">RESERVAS</string>
+    <string name="hacer_reservas">HACER RESERVA</string>
+    <string name="productos">PRODUCTOS</string>
+    <string name="menuinicial">MENU</string>
+    <string name="menuinicial2">INICIAL</string>
+    <string name="menu">MENU</string>
+    <string name="restaurante1">PUNTO APICOLA</string>
+    <string name="restaurante2">CASA APICOLA</string>
+    <string name="restaurante3">CAMPO APICOLA</string>
+    <string name="comida1_restaurante1">MIEL NATURAL</string>
+    <string name="comida2_restaurante1">COMBO PROPOLEO Y MIEL</string>
+    <string name="comida3_restaurante1">COMBO MIEL + SHAMPOO</string>
+    <string name="comida1_restaurante2">MIEL DE ABEJA NATURAL ARTESANAL</string>
+    <string name="comida2_restaurante2">PROPOLEO</string>
+    <string name="comida3_restaurante2">CERA DE ABEJAS</string>
+    <string name="comida1_restaurante3">JAVON A BASE DE MIEL</string>
+    <string name="comida2_restaurante3">MIEL DE ABEJA 100% NATURAL</string>
+    <string name="comida3_restaurante3">POLEN</string>
+    <string name="fecha_reserva">Fecha</string>
+    <string name="persona_reserva">Persona</string>
+    <string name="telefono_reserva">Telefono</string>
+    <string name="reservar">RESERVAR</string>
+    <string name="insiarsesion">INICIAR SESION</string>
+    <string name="mapa">MAPA</string>
+    <string name="registrarse">REGISTRARSE</string>
+
+    <string name="apicultores">APICULTORES</string>
+    <string name="b">B</string>
+    <string name="i">I</string>
+    <string name="e">E</string>
+    <string name="n">N</string>
+    <string name="v">V</string>
+    <string name="e2">E</string>
+    <string name="n2">N</string>
+    <string name="d">D</string>
+    <string name="o">O</string>
+    <string name="s">S</string>
+    <string name="a">A</string>
+    <string-array name="rol_usuario">ROL_USUARIO
+        <item>Seleccione el rol del usuario</item>
+        <item>APICULTOR</item>
+        <item>EMPRESA</item>
+        <item>PERSONA_NATURAL</item>
+        <item>ADMINISTRADOR</item>
+
+    </string-array>
+    <string-array name="apicultores_registrados">
+        <item>Apicultores registrados</item>
+        <item>PUNTO APICOLA</item>
+        <item>CASA APICOLA</item>
+        <item>CAMPO APICOLA</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+
+
+
+
+
+
+</resources>
